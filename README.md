@@ -12,6 +12,6 @@ server. You will then query the database to get customer details like name, phon
 number, email ID, sales made in a particular month, increase in month-on-month<br>
 sales and even the total sales made to a particular customer.<br>
 *Highlights:<br>
-*Table basics and data types<br>
-*Various SQL operators<br>
-*Various SQL functions<br>
+-Table basics and data types<br>
+-Various SQL operators<br>
+-Various SQL functions<br>
